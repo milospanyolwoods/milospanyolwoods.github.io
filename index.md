@@ -12,7 +12,7 @@ title: Milo Spanyol-Woods
     <li><a href="about.html">About</a></li>
     <li><a href="research.html">Research</a></li>
    <li>
-  Contact:<code>spanyolwoods@umass.edu</code></li>
+  Contact: <code>spanyolwoods@umass.edu</code></li>
   </ul>
 </div>
 <div style="height: 1.3em;"></div>
