@@ -11,3 +11,4 @@ Hello! I'm a first-year PhD student in the [linguistics department](https://www.
 
 * [CV](https://milospanyolwoods.github.io/cvoctober2026_msw.pdf)
 * [About](about.md)
+* [Research](research.md)
