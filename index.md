@@ -15,5 +15,5 @@ title: Milo Spanyol-Woods
   Contact:<code>spanyolwoods@umass.edu</code></li>
   </ul>
 </div>
-
+<div style="height: 2em;"></div>
 Hello! I'm a first-year PhD student in the [linguistics department](https://www.umass.edu/linguistics/) at UMass Amherst. I'm interested in syntax and its interfaces, with a particular focus on things like ellipsis, binding, coordination, and head movement.
