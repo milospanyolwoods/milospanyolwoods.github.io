@@ -11,7 +11,7 @@ title: Milo Spanyol-Woods
     <li><a href="https://milospanyolwoods.github.io/cvoctober2026_msw.pdf">CV</a></li>
     <li><a href="about.html">About</a></li>
     <li><a href="research.html">Research</a></li>
-   <li>
+   <li style="list-style: none;">
   Contact:
   <br>
   <code>spanyolwoods@umass.edu</code>
