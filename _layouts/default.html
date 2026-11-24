@@ -28,8 +28,6 @@
         line-height: 1.25;
       }
       .markdown-body h1 {
-        padding-bottom: .3em;
-        border-bottom: 1px solid #d1d9e0;
         font-size: 2em;
       }
       .markdown-body p, .markdown-body ul { margin-top: 0; margin-bottom: 16px; }
@@ -37,9 +35,21 @@
       .markdown-body a { color: #0969da; text-decoration: none; }
       .markdown-body a:hover { text-decoration: underline; }
       .markdown-body img { max-width: 100%; height: auto; }
+      .homepage-intro {
+        display: flex;
+        align-items: flex-start;
+        gap: 24px;
+      }
+      .homepage-intro img { width: 35%; }
+      .homepage-intro ul {
+        margin: 0;
+        padding-left: 24px;
+      }
       @media (max-width: 600px) {
         body { padding: 24px 16px; }
         .markdown-body { padding: 0; }
+        .homepage-intro { flex-direction: column; }
+        .homepage-intro img { width: 100%; }
       }
     </style>
   </head>
