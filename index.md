@@ -11,8 +11,8 @@ title: Milo Spanyol-Woods
     <li><a href="https://milospanyolwoods.github.io/cvoctober2026_msw.pdf">CV</a></li>
     <li><a href="about.html">About</a></li>
     <li><a href="research.html">Research</a></li>
-    <li><a href="mailto:spanyolwoods@umass.edu">Contact</a></li>
+    <li>Contact: <code>spanyolwoods@umass.edu</code></li>
   </ul>
 </div>
 
-Hello! I'm a first-year PhD student in the [linguistics department](https://www.umass.edu/linguistics/) at UMass Amherst. I'm interested in syntax and its interfaces, with a particular focus on things like ellipsis, binding, coordination, and head movement.
+Hello! I'm a first-year PhD student in the [linguistics department](https://www.umass.edu/linguistics/) at UMass Amherst. I'm interested in syntax and its interfaces, with a particular focus on th[...]
