@@ -5,4 +5,4 @@
 Hello! I'm a first-year PhD student in the [linguistics department](https://www.umass.edu/linguistics/) at UMass Amherst.
 
 * [CV](https://milospanyolwoods.github.io/cvoctober2026_msw.pdf)
-* [About](about.html)
+* [About](about.md)
