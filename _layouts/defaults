@@ -15,7 +15,5 @@
 
       {{ content }}
     </div>
-    <script src="https://cloudflare.com" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
   </body>
 </html>
