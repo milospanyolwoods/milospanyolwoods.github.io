@@ -11,7 +11,15 @@ title: Milo Spanyol-Woods
     <li><a href="https://milospanyolwoods.github.io/cvoctober2026_msw.pdf">CV</a></li>
     <li><a href="about.html">About</a></li>
     <li><a href="research.html">Research</a></li>
-    <li>Contact: <code>spanyolwoods@umass.edu</code></li>
+   <li>
+  Contact: <code>spanyolwoods@umass.edu</code>
+  <br>
+  <span style="margin-left: 8.25em;">Integrative Learning Center, N466</span>
+  <br>
+  <span style="margin-left: 8.25em;">650 North Pleasant Street</span>
+  <br>
+  <span style="margin-left: 8.25em;">Amherst, MA 01003</span>
+</li>
   </ul>
 </div>
 
