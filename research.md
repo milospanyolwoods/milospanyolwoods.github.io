@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Research | Milo Spanyol-Woods
+title: Research
 ---
 
-# [Milo Spanyol-Woods](/)
+# Research
 
 **Unpublished manuscripts**:
 

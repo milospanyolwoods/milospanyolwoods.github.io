@@ -1,9 +1,9 @@
 ---
 layout: default
-title: About | Milo Spanyol-Woods
+title: About
 ---
 
-# [Milo Spanyol-Woods](/)
+# About
 
 I was born and raised in London, England.
 
