@@ -9,7 +9,7 @@ title: Milo Spanyol-Woods
 
 Hello! I'm a first-year PhD student in the [linguistics department](https://www.umass.edu/linguistics/) at UMass Amherst. I'm interested in syntax and its interfaces, with a particular focus on things like ellipsis, binding, coordination, and head movement.
 
-* [CV](https://milospanyolwoods.github.io/cvoctober2026_msw.pdf)
+* [CV](https://milospanyolwoods.github.io/CVNovember2026_MSW.pdf)
 * [About](about.md)
 * [Research](research.md)
 * Contact: <code>spanyolwoods@umass.edu<code>
