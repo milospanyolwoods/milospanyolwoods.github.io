@@ -12,13 +12,15 @@ title: Milo Spanyol-Woods
     <li><a href="about.html">About</a></li>
     <li><a href="research.html">Research</a></li>
    <li>
-  Contact: <code>spanyolwoods@umass.edu</code>
+  Contact:
   <br>
-  <span style="margin-left: 8.25em;">Integrative Learning Center, N466</span>
+  <code>spanyolwoods@umass.edu</code>
   <br>
-  <span style="margin-left: 8.25em;">650 North Pleasant Street</span>
+  Address line 1
   <br>
-  <span style="margin-left: 8.25em;">Amherst, MA 01003</span>
+  Address line 2
+  <br>
+  Address line 3
 </li>
   </ul>
 </div>
