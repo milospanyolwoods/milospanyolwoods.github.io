@@ -5,7 +5,7 @@ title: About
 
 # About
 
-I was born and raised in London, England.
+I was born and raised in London, England. I'm bad at every language, except for English, which I'm good at.
 
 When I was an undergraduate and had ideas above my station, I thought I might become a writer,
 even going so far as to write a feature length [comedy](https://www.argonfilms.co.uk/zipwharf) with some of my friends.
