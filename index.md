@@ -16,11 +16,11 @@ title: Milo Spanyol-Woods
   <br>
   <code>spanyolwoods@umass.edu</code>
   <br>
-  Address line 1
+  Integrative Learning Center, N466
   <br>
-  Address line 2
+  650 North Pleasant Street
   <br>
-  Address line 3
+  Amherst, MA 01003
 </li>
   </ul>
 </div>
