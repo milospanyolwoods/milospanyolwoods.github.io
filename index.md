@@ -6,7 +6,7 @@ title: Milo Spanyol-Woods
 # Milo Spanyol-Woods
 
 <div class="homepage-intro">
-  <img src="https://milospanolwoods.github.io/PHOTO-2026-10-11-21-54-02.jpg" alt="Milo Spanyol-Woods">
+  <img src="https://milospanyolwoods.github.io/PHOTO-2026-10-11-21-54-02.jpg" alt="Milo Spanyol-Woods">
   <ul>
     <li><a href="https://milospanyolwoods.github.io/cvoctober2026_msw.pdf">CV</a></li>
     <li><a href="about.html">About</a></li>
