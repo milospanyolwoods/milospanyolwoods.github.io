@@ -11,4 +11,4 @@ When I was an undergraduate and had ideas above my station, I thought I might be
 even going so far as to write a feature length [comedy](https://www.argonfilms.co.uk/zipwharf) with some of my friends.
 Upon realising I wasn't as funny as they were, I gave up and ended up doing what I do now, which I enjoy very much.
 
-My surname is technically supposed to be double-barrelled without a hyphen, but I add one just for clarity. 
+(My surname is technically supposed to be double-barrelled without a hyphen, but I add one just for clarity.) 
