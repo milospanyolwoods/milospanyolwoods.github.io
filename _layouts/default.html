@@ -33,8 +33,12 @@
       }
       .markdown-body p, .markdown-body ul { margin-top: 0; margin-bottom: 16px; }
       .markdown-body ul { padding-left: 2em; }
-      .markdown-body a { color: #0969da; text-decoration: none; }
-      .markdown-body a:hover { text-decoration: underline; }
+      .markdown-body a {
+        color: inherit;
+        text-decoration-line: underline;
+        text-decoration-style: dotted;
+        text-underline-offset: 0.18em;
+      }
       .markdown-body img { max-width: 100%; height: auto; }
       .home-link {
         display: inline-block;
