@@ -8,7 +8,7 @@ title: Milo Spanyol-Woods
 <div class="homepage-intro">
   <img src="https://milospanyolwoods.github.io/PHOTO-2026-10-11-21-54-02.jpg" alt="Milo Spanyol-Woods">
   <ul>
-    <li><a href="https://milospanyolwoods.github.io/CVNov2026_MSW.pdf">CV</a></li>
+    <li><a href="https://milospanyolwoods.github.io/CVNov2026_MSW-2.pdf">CV</a></li>
     <li><a href="about.html">About</a></li>
     <li><a href="research.html">Research</a></li>
    <li>
