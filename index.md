@@ -16,4 +16,4 @@ title: Milo Spanyol-Woods
   </ul>
 </div>
 <div style="height: 1.3em;"></div>
-I'm a first-year PhD student in the [linguistics department](https://www.umass.edu/linguistics/) at UMass Amherst. I'm interested in syntax and its interfaces, particularly topics like ellipsis, binding, coordination, and movement.
+I'm a first-year PhD student in the [linguistics department](https://www.umass.edu/linguistics/) at UMass Amherst. My interests are in syntax and its interfaces, particularly topics like ellipsis, binding, coordination, and movement.
